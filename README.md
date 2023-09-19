@@ -3,7 +3,7 @@ I'm Isabella Alvarado Solera
 
 From Cartagena de Indias, Colombia.🐋
 
-Software Developer and System Engineering student. 💻
+Software Developer and System Engineering Student. 💻
 
 ---
 
