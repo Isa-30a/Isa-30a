@@ -9,10 +9,11 @@ Software Developer and System Engineering Student. 💻
 
 What language or technologies do I use?
 
-☕ Java
+✅ Vue js
 😼 GitHub
 🐦 Flutter
 🔥 Firebase
+☕ Java
 
 ---
 
