@@ -1,29 +1,36 @@
-Hello, everyone 👋
-I'm Isabella Alvarado Solera
+# 👋 Hello, I'm Isabella Alvarado Solera  
 
-From Cartagena de Indias, Colombia.🐋
-
-Software Developer and System Engineering Student. 💻
+🌍 From Cartagena de Indias, Colombia 🐋  
+💻 Software Developer | 🎓 System Engineering Student  
 
 ---
 
-What language or technologies do I use?
-
-✅ Vue js
-😼 GitHub
-🐦 Flutter
-🔥 Firebase
-☕ Java
+## 🚀 About Me  
+- I enjoy focusing on how users truly experience an application once they interact with it.  
+- Passionate about **UI Development**, creating interfaces that feel intuitive and enjoyable.
+- I also have an interest in **design**, exploring how layout, color, and interactions can improve the overall user experience.  
 
 ---
 
-Social media
+## 🛠️ Tech Stack  
 
-💼 LinkedIn: www.linkedin.com/in/isabella-alvarado-43a46a287
+- ⚛️ **React.js** | **Next.js**  
+- 🟦 **TypeScript** | 🟨 **JavaScript (ES6+)**  
+- ✅ **Vue.js** | ☕ **Java**  
+- 🐦 **Flutter** | 🔥 **Firebase**  
+- 🛠️ **GitHub** | 📦 **Node.js**  
 
 ---
 
-Language
+## 🌐 Connect with Me  
 
-Spanish (Native)
-English
+💼 [LinkedIn](https://www.linkedin.com/in/isabella-alvarado-43a46a287)  
+
+---
+
+## 🌍 Languages  
+- 🇨🇴 Spanish: Native  
+- 🇺🇸 English: Intermediate
+
+---
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
