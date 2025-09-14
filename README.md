@@ -30,7 +30,7 @@
 
 ## 🌍 Languages  
 - 🇨🇴 Spanish: Native  
-- 🇺🇸 English: Intermediate
+- 🇺🇸 English: [Intermediate](https://cert.efset.org/en/sj24Hq)
 
 ---
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
